@@ -13,6 +13,7 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
+import genai from './assets/tech_logo/genai.png';
 
 // Education Section Logo's
 import aotLogo from './assets/education_logo/aot_logo.png';
@@ -42,16 +43,15 @@ export const SkillsInfo = [
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
-      { name: 'C', logo: cLogo },
     ],
   },
   {
     title: 'AI/ML',
     skills: [
-      { name: 'GenAI', logo: springbootLogo },
-      { name: 'LLM', logo: nodejsLogo },
-      { name: 'Clustering', logo: springbootLogo },
-      { name: 'Skyline', logo: nodejsLogo },
+      { name: 'GenAI', logo: genai },
+      { name: 'LLM', logo: genai },
+      { name: 'Clustering', logo: genai },
+      { name: 'Skyline', logo: genai },
     ],
   },
   {
