@@ -104,8 +104,8 @@ export const SkillsInfo = [
         "This is my personal portfolio website built using React and Vite to showcase my skills, projects, and experience. It features a clean, responsive design powered by Tailwind CSS for a modern UI. Visitors can explore my work, learn about my background, and contact me via a dynamic form. The site reflects my journey as a full-stack developer with a focus on performance and interactivity.",
       image: portfolio,
       tags: ["React JS", "HTML", "CSS", "Tailwind", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      github: "https://github.com/ankit1018/Portfolio",
+      webapp: "https://akportfolio04.vercel.app/",
     },
     {
       id: 1,

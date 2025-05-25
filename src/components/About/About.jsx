@@ -54,7 +54,7 @@ const About = () => {
 
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1_pLl2wjYVCU-wnqXIhjhYr0YC0SJXvwv/view?usp=sharing"
+            href="https://drive.google.com/file/d/1aP9drI90R1yMuHb4cyOD3ajPmvZZB8Lf/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Download CV"
