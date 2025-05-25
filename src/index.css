@@ -27,4 +27,10 @@ html {
         clip-path: polygon(0 0, 100% 0, 100% 98%, 75% 96%, 0 100%);
       }
   }
-  
+  /* In your global CSS file or App.css */
+
+.typing-gradient {
+  background: linear-gradient(90deg, #8245ec, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
